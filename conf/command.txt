@@ -1,0 +1,5 @@
+Press F1 to load the previous library.
+Press F2 to load the next library.
+Press Key UP to load the previous game.
+Press Key DOWN to load the next game.
+Press Escape to exit.

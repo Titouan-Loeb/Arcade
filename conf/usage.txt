@@ -1,0 +1,5 @@
+Usage:
+    ./arcade game-library.so
+
+    game-library.so : The graphical library you want to use.
+                      It must be a shared library
